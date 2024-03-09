@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+$ displays "I am alive" indefinitely,
+while "true"
+do
+	echo "I am alive" > /tmp/my_process
+done
